@@ -1,3 +1,7 @@
+# Signing Up
+# 1) send an email to support@araalinetworks.com with Subject Araali Freemium
+# 2) once provisioned you will get an email from Araali with your customer name. This will be used in authorization step
+
 # Getting Started
 ```
 mkdir araalinetworks
